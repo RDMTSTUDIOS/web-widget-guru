@@ -1,0 +1,9 @@
+.guiWindow {
+    position: fixed;
+}
+
+.sandbox {
+    position: relative;
+    min-height: 100%;
+    width: 100%;
+}

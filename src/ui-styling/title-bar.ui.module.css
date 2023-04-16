@@ -1,0 +1,15 @@
+.title-bar {
+    position: fixed;
+    top: 0px;
+    width: 100%;
+}
+
+.kali {
+    height: 30px;
+    padding: 5px;
+    background-color: #2b2b2b;
+    border-bottom: 2px solid #5f5f5f;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+}
